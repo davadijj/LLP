@@ -1,0 +1,12 @@
+﻿  barrier.cpp
+barrier.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  heatmap_seq.cpp
+src\heatmap_seq.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  ped_agent.cpp
+src\ped_agent.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  ped_model.cpp
+src\ped_model.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  ped_vector.cpp
+src\ped_vector.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  ped_waypoint.cpp
+src\ped_waypoint.cpp : fatal error C1041: cannot open program database 'X:\my documents\LowLevelPP-master\Libpedsim\CrowdSimulation2019\Libpedsim\x64\Release\Libpedsim.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS

@@ -1,0 +1,8 @@
+﻿  ped_model.cpp
+src\ped_model.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\ped_model.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Libpedsim.vcxproj -> C:\Users\dajo1193\Desktop\LowLevelPP-master\Libpedsim\CrowdSimulation2019\x64\timing-release\Libpedsim.lib
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin\cudart*.dll" "C:\Users\dajo1193\Desktop\LowLevelPP-master\Libpedsim\CrowdSimulation2019\x64\timing-release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin\cudart32_92.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin\cudart64_92.dll
+          2 file(s) copied.
